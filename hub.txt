@@ -1,0 +1,5 @@
+hub demo_hub_test
+shortLabel demo_check
+longLabel No_long_label
+genomesFile genomes.txt
+email  satyanarayan.rao@bt.iitr.ac.in

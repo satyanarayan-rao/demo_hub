@@ -1,0 +1,2 @@
+genome dm3
+trackDb dm3/trackDb.txt
