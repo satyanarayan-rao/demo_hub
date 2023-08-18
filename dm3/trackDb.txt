@@ -1,5 +1,5 @@
 track bigBed1
-bigDataUrl http://hgdownload.soe.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeCaltechRnaSeq/wgEncodeCaltechRnaSeqGm12891R2x75Il200JunctionsRep1V3.bigBed
+bigDataUrl https://raw.githubusercontent.com/satyanarayan-rao/demo_hub/main/dm3/demo.bigBed
 shortLabel bigBed demo
 longLabel This bigBed file is an example methylation
 type bigBed
